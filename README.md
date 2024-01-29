@@ -1,1 +1,1 @@
-"# DjangoCMS" 
+# DjangoCMS
